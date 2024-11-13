@@ -1,0 +1,179 @@
+{
+  "body": [
+    {
+      "id": 1,
+      "phrase": "Cada momento es especial para quien tiene la visión de reconocerlo como tal",
+      "author": "Henry Miller",
+      "tag": "vida",
+      "image": "BobbyFischer400x400_7.jpg"
+    },
+    {
+      "id": 2,
+      "phrase": "La vida es muy peligrosa. No por las personas que hacen el mal, sino por las que se sientan a ver lo que pasa",
+      "author": "Albert Einstein",
+      "tag": "vida",
+      "image": "Einstein_1921_portrait-crop.jpg"
+    },
+    {
+      "id": 3,
+      "phrase": "Asegúrate de que colocas tus pies en el lugar correcto y luego, mantente firme",
+      "author": "Abraham Lincoln",
+      "tag": "vida",
+      "image": "Abraham_Lincoln.jpg"
+    },
+    {
+      "id": 4,
+      "phrase": "La felicidad no brota de la razón, sino de la imaginación",
+      "author": "Immanuel Kant",
+      "tag": "vida",
+      "image": "Immanuel_Kant.jpg"
+    },
+    {
+      "id": 5,
+      "phrase": "No se puede encontrar la paz evitando la vida",
+      "author": "Virginia Woolf",
+      "tag": "vida",
+      "image": "Virginia_Woolf.webp"
+    },
+    {
+      "id": 6,
+      "phrase": "Lo que haces por ti se desvanece cuando mueres. Lo que haces por el resto conforma tu legado",
+      "author": " Kalu Ndukwe Kalu",
+      "tag": "vida",
+      "image": "BobbyFischer400x400_7.jpg"
+    },
+    {
+      "id": 7,
+      "phrase": "Buenos amigos, buenos libros y tener una conciencia tranquila: esta es la vida ideal",
+      "author": "A Mark Twain",
+      "tag": "vida",
+      "image": "BobbyFischer400x400_7.jpg"
+    },
+    {
+      "id": 8,
+      "phrase": "Cuando las oportunidades no llamen a tu puerta, construye una",
+      "author": "Milton Berle",
+      "tag": "vida",
+      "image": "BobbyFischer400x400_7.jpg"
+    },
+    {
+      "id": 9,
+      "phrase": "La vida es un viaje de autodescubrimiento, atrévete a explorar",
+      "author": "Anaïs Nin",
+      "tag": "vida",
+      "image": "BobbyFischer400x400_7.jpg"
+    },
+    {
+      "id": 10,
+      "phrase": "Al cabo de los años he observado que la belleza, como la felicidad, es frecuente. No pasa un día en que no estemos, un instante, en el paraíso",
+      "author": "Jorge Luis Borges",
+      "tag": "vida",
+      "image": "Jorge-Luis-Borges.webp"
+    },
+    {
+      "id": 11,
+      "phrase": "La risa es el Sol que ahuyenta el invierno del rostro humano",
+      "author": "Victor Hugo",
+      "tag": "vida",
+      "image": "victor-hugo-2.jpg"
+    },
+    {
+      "id": 12,
+      "phrase": "La felicidad es amor, no otra cosa. El que sabe amar es feliz",
+      "author": "Hermann Hesse",
+      "tag": "vida",
+      "image": "Hermann_Hesse_2.jpg"
+    },
+    {
+      "id": 13,
+      "phrase": "El futuro pertenece a quienes creen en la belleza de sus sueños",
+      "author": "Eleanor Roosevelt",
+      "tag": "vida",
+      "image": "Eleanor_Roosevelt.jpeg"
+    },
+    {
+      "id": 14,
+      "phrase": "Un día sin reír es un día perdido",
+      "author": "Charles Chaplin",
+      "tag": "vida",
+      "image": "Charles_Chaplin.jpg"
+    },
+    {
+      "id": 15,
+      "phrase": "La vida es como el jazz… es mucho mejor si es improvisada",
+      "author": "George Gershwin",
+      "tag": "vida",
+      "image": "BobbyFischer400x400_7.jpg"
+    },
+    {
+      "id": 16,
+      "phrase": "La vida es la constante sorpresa de saber que existo",
+      "author": "R. Tagore",
+      "tag": "vida",
+      "image": "BobbyFischer400x400_7.jpg"
+    },
+    {
+      "id": 17,
+      "phrase": "Los sabios son los que buscan la sabiduría; los necios piensan haberla encontrado",
+      "author": "Napoleón",
+      "tag": "vida",
+      "image": "napoleon-min2.jpg"
+    },
+    {
+      "id": 18,
+      "phrase": "No lastimes a los demás con lo que te causa dolor a ti mismo",
+      "author": "Buda",
+      "tag": "vida",
+      "image": "BobbyFischer400x400_7.jpg"
+    },
+    {
+      "id": 19,
+      "phrase": "El sentido común no es resultado de la educación",
+      "author": "Victor Hugo",
+      "tag": "educación",
+      "image": "victor-hugo-2.jpg"
+    },
+    {
+      "id": 20,
+      "phrase": "La educación es el arte de hacer visibles las cosas invisibles",
+      "author": "Jean-François Lyotard",
+      "tag": "educación",
+      "image": "09b88-jean_francois_lyotard.webp"
+    },
+    {
+      "id": 21,
+      "phrase": "No todos los lectores son líderes, pero todos los lectores se convierten en líderes",
+      "author": "Harry S. Truman",
+      "tag": "educación",
+      "image": "Harry_Truman.webp"
+    },
+    {
+      "id": 22,
+      "phrase": "Quien se atreve a enseñar, nunca debe dejar de aprender",
+      "author": "John Cotton Dana",
+      "tag": "educación",
+      "image": "800px-John_Cotton_Dana_01.jpg"
+    },
+    {
+      "id": 17,
+      "phrase": "Cuando veas una buena jugada, trata de encontrar otra mejor",
+      "author": "Emanuel Lasker",
+      "tag": "ajedrez",
+      "image": "Emanuel_Lasker.jpg"
+    },
+    {
+      "id": 18,
+      "phrase": "Nada excita más a Grandes Maestros aburridos que una novedad teórica",
+      "author": "Dominic Lawson",
+      "tag": "ajedrez",
+      "image": "BobbyFischer400x400_7.jpg"
+    },
+    {
+      "id": 18,
+      "phrase": "La estratégia requiere pensar, la táctica requiere observación",
+      "author": "Max Euwe",
+      "tag": "ajedrez",
+      "image": "Max_Euwe.png"
+    }
+  ]
+}
