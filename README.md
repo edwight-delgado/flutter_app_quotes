@@ -1,16 +1,54 @@
+Markdown
+
 # quotes
 
-A new Flutter project.
+**Una aplicación Flutter para disfrutar de frases célebres.**
 
-## Getting Started
+Esta aplicación te permite descubrir frases inspiradoras de personajes históricos de forma aleatoria. Sumérgete en un mundo de sabiduría y motivación con esta sencilla pero poderosa herramienta.
 
-This project is a starting point for a Flutter application.
+### Características principales:
 
-A few resources to get you started if this is your first Flutter project:
+- **Pantalla principal:**
+  - Muestra una frase célebre aleatoria en cada carga.
+  - Diseño intuitivo y fácil de usar.
+- **Pantalla de lista por temáticas:**
+  - Explora frases agrupadas por categorías como amor, vida, éxito, etc.
+  - Navega fácilmente entre las diferentes temáticas.
+- **Pantalla de frases por autor:**
+  - Descubre todas las frases de tus autores favoritos.
+  - Filtra y busca frases por autor específico.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Tecnologías utilizadas:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter:** Framework para desarrollo de aplicaciones móviles multiplataforma.
+- **Dart:** Lenguaje de programación utilizado  
+  en Flutter.
+
+### Cómo ejecutar el proyecto:
+
+1. **Clonar el repositorio:**
+
+   ```bash
+   git clone https://tu-repositorio.git
+
+   ```
+
+2. **Instalar dependencias:**
+
+   ```bash
+   flutter pub get
+
+   ```
+
+3. **Ejecutar la aplicación:**
+   ```bash
+   flutter run
+   ```
+
+## Capturas de la App
+
+![](photo/img1.png)
+
+![](photo/img4.png)
+
+![](photo/img5.png)
